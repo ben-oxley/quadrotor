@@ -36,4 +36,4 @@ def setscr():
 
 setscr()
 curses.endwin()
-
+#test
