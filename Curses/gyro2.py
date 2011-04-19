@@ -34,4 +34,4 @@ myscreen.addstr(22, 2,"      `.-.Pitch Back`--.`          \mm/           `.Roll 
 myscreen.refresh()
 myscreen.getch()
 
-curses.endwin()   /* End curses mode		  */
+curses.endwin()   # End curses mode		  
